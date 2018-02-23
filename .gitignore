@@ -1,0 +1,15 @@
+#compile
+/build
+/test
+
+# IDE
+/nbproject
+
+# misc
+build.xml
+manifest.mf
+
+# System Files
+.DS_Store
+Thumbs.db
+
